@@ -1,0 +1,23 @@
+body {
+    background: lightgray;
+}
+
+.title-header {
+    color: #2a9d8f;
+}
+
+h2 {
+    color: #264653;
+}
+
+nav a {
+    color: #e76f51;
+}
+
+a {
+    color: blueviolet;
+}
+
+#name {
+    color: green;
+}
